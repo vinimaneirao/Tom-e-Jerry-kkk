@@ -68,6 +68,8 @@ if(gato.x - rato.x < gato.width/2 - rato.width/2){
 
 }
 
+apertar();    
+    
 drawSprites();
 
 }
